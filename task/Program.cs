@@ -23,3 +23,16 @@ string[] NewArr()
     }
     return array;
 }
+string[] ArrFin(string [] array)
+{
+    Random rand = new Random();
+    int size = rand.Next(1, 3 + 1 );
+    string[] array2 = new string [size];
+            for (int i = 0; i < array2.Length; i++)
+        {
+            array2[i] = array[rand.Next(0, array.Length+1)];
+        }
+        PrintArray(array2);
+    
+    return array;
+}
