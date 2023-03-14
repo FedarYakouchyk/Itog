@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\семинар по контролю версий\\ITOG\\ITOG.csproj",
-      "projectName": "ITOG",
-      "projectPath": "D:\\семинар по контролю версий\\ITOG\\ITOG.csproj",
+      "projectUniqueName": "D:\\семинар по контролю версий\\ITOG\\task\\task.csproj",
+      "projectName": "task",
+      "projectPath": "D:\\семинар по контролю версий\\ITOG\\task\\task.csproj",
       "packagesPath": "C:\\Users\\Федор\\.nuget\\packages\\",
-      "outputPath": "D:\\семинар по контролю версий\\ITOG\\obj\\",
+      "outputPath": "D:\\семинар по контролю версий\\ITOG\\task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Федор\\AppData\\Roaming\\NuGet\\NuGet.Config"

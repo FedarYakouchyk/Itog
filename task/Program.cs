@@ -23,6 +23,7 @@ string[] NewArr()
     }
     return array;
 }
+
 string[] ArrFin(string [] array)
 {
     Random rand = new Random();
@@ -36,3 +37,6 @@ string[] ArrFin(string [] array)
     
     return array;
 }
+string [] proba = NewArr();
+
+string []rez = ArrFin (proba);
